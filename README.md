@@ -16,10 +16,4 @@ Goals
 	•	Optimize the learning experience.
 	•	Enhance communication between students and staff.
 
-Technologies
 
-	•	[Include languages/frameworks you will use, e.g., Kotlin, React Native, etc.]
-
-Project Status
-
-This project is currently in the conceptual phase. Future plans include app design, development, and integration with NIBM’s systems.
